@@ -330,7 +330,6 @@
             box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
             border: 1px solid rgba(102, 126, 234, 0.1);
             position: relative;
-            overflow: hidden;
         }
 
         .about-card::before {
